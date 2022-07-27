@@ -1,0 +1,1 @@
+audio_play_sound(chuva,1,9999)
